@@ -6,9 +6,7 @@
 - 📫 How to reach me
 - 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/loise-m-b43773b7/)
-- 
 - Email: loisembago@gmail.com
-- 
 - GitHub: [GitHub Profile](https://github.com/Loisembago1)
 - 
 📚 Education:
