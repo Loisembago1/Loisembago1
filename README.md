@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Loisembago1
-- 👀 I’m passionate about data science, machine learning, and their applications in solving real-world problems.
-- 🌱 I’m constantly learning and improving my skills in data preprocessing, predictive modeling, and data-driven decision-making.
-- 💞️ I’m looking to collaborate on various data science projects and initiatives and their applications in solving real-world problems.
+ 👋 Hi, I’m @Loisembago1
+ 👀 I’m passionate about data science, machine learning, and their applications in solving real-world problems.
+ 🌱 I’m constantly learning and improving my skills in data preprocessing, predictive modeling, and data-driven decision-making.
+ 💞️ I’m looking to collaborate on various data science projects and initiatives and their applications in solving real-world problems.
   
-- 📫 How to reach me
+ 📫 How to reach me
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/loise-m-b43773b7/)
 - Email: loisembago@gmail.com
 - GitHub: [GitHub Profile](https://github.com/Loisembago1)
