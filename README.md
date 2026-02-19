@@ -1,7 +1,7 @@
  👋 Hi, I’m @Loisembago1 
   👀 I’m passionate about data science, machine learning, and their applications in solving real-world problems.
- 🌱 I’m constantly learning and improving my skills in data preprocessing, predictive modeling, and data-driven decision-making.
- 💞️ I’m looking to collaborate on various data science projects and initiatives and their applications in solving real-world problems.
+ 🌱 I’m constantly learning and improving my skills in data preprocessing, predictive modelling, and data-driven decision-making.
+ 💞️ I’m looking to collaborate on various data science projects and initiatives, and their applications in solving real-world problems.
   
  📫 How to reach me
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/loise-m-b43773b7/)
@@ -17,9 +17,9 @@
 <!---
 🔧 Skills:
 
-- Credit Risk Modeling
-- Data Analysis and Visualization
-- Machine Learning and Predictive Modeling
+- Credit Risk Modelling
+- Data Analysis and Visualisation
+- Machine Learning and Predictive Modelling
 - Python, R, SQL
 - Financial Data Analysis
 
