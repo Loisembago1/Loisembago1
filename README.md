@@ -12,7 +12,8 @@
 - Recent Data Science Graduate from Moringa School
   
 💼 Work Experience:
-- Credit Risk Analyst at Momentum
+-Technical Account Manager at Rayobyte
+- Ex Credit Risk Analyst at Momentum
   
 <!---
 🔧 Skills:
