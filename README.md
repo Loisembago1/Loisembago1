@@ -9,7 +9,8 @@
 - GitHub: [GitHub Profile](https://github.com/Loisembago1)
   
 📚 Education:
-- Recent Data Science Graduate from Moringa School
+- Data Science Nano Degree Graduate from Moringa School
+- Bachelor of Scince in Information systems and Technology at USIU Africa
   
 💼 Work Experience:
 -Technical Account Manager at Rayobyte
